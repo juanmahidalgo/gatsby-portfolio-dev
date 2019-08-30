@@ -13,8 +13,8 @@ export const Skills = () => (
 			<Details>
 				<h1>Hi There!</h1>
 				<p>
-					Lorem Ipsum is simply dummy text of the printing and typesetting
-					industry. Lorem Ipsum has been the industry’s standard dummy.
+					Full Stack Software Engineer with 5+ years of experience, focused on JavaScript ecosystem, especially on NodeJS, React & Redux. In addition, I have experience in designing and developing highly scalable backend microservices on Java and Golang.
+					I have participated in several projects from scratch having the opportunity to design architectures focused on scalability and performance. 
 				</p>
 				<Button as={AnchorLink} href="#contact">
 					Hire me
